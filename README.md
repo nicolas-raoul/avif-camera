@@ -1,4 +1,4 @@
-# AVIF Camera User Manual
+# Android AVIF Camera
 
 ## Goal
 AVIF Camera is a specialized photography application designed to capture high-quality images and save them in the advanced AVIF (AV1 Image File Format). AVIF provides superior compression and better image quality compared to JPEG, allowing you to save space without sacrificing detail.
