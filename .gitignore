@@ -1,0 +1,17 @@
+# Gradle build outputs
+build/
+.gradle/
+*.apk
+*.aar
+
+# IDE settings
+.idea/
+*.iml
+.DS_Store
+
+# Local configuration
+local.properties
+
+# Logs
+*.log
+testing/
